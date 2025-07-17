@@ -9,22 +9,16 @@ To create a machine learning model on the Titanic dataset, which is used by many
 
 
 # Procedure:
-## 1. Importing Dataset:
-## 2. Data Vizualization:
-## 3. Data Cleaning:
-## 4. Converting the unique values of some column into Numerics:
-## 5. Splitting the data into independent ‘X’ and dependent ‘Y’ data sets.
-## 6. Split the dataset into 80% Training set and 20% Testing set.
-## 7. Feature Scaling
-## 8. Model training (6 models)
-a) Logistic Regression,
-b) K Neighbors Classifier,
-c) Support Vector Machine
-d) Naïve Bayes,
-e) Decision Tree Classifier
-f) Random Forest Classifier
-## 9. Calculating Training accuracy and Testing accuracy.
-## 10. Finding a Conclusion.
+1. Importing Dataset
+2. Data Vizualization
+3. Data Cleaning
+4. Converting the unique values of some column into Numerics
+5. Splitting the data into independent ‘X’ and dependent ‘Y’ data sets.
+6. Split the dataset into 80% Training set and 20% Testing set.
+7. Feature Scaling
+8. Model training (6 models)
+9. Calculating Training accuracy and Testing accuracy.
+10. Finding a Conclusion.
 
 
 # Some Basic Understanding of Machine Learning Models used in the project
